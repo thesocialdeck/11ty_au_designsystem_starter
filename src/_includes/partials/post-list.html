@@ -1,0 +1,18 @@
+<div class="au-card" id="post-list">
+  <div class="au-card__inner">
+    {% if postListHeadline %}
+    <h2 class="au-card__title">
+      {{ postListHeadline }}
+    </h2>
+    {% endif %}
+    <div>
+      <ul class="au-link-list au-keyword-list au-keyword-list--dark">
+        {% for item in postListItems %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

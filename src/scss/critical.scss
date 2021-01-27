@@ -1,0 +1,135 @@
+// First up: config and functions
+@import 'config';
+
+// Next: pull in gorko for design tokens
+@import '../../node_modules/gorko/gorko.scss';
+
+@import 'reset';
+
+// Light palette
+// ==============
+
+// Default values - can be overridden with your own colours
+$AU-color-foreground-action:     #1C587D !default;
+$AU-color-foreground-focus:      #F26322 !default;
+$AU-color-foreground-text:       #002D3F !default;
+$AU-color-background:            #ffffff !default;
+
+// Generated values - automatically created from default values
+// $AU-color-foreground-muted     (#626262)
+// $AU-color-foreground-border    (#808080)
+// $AU-color-background-shade     (#f5f5f5)
+// $AU-color-background-alt       (#ebebeb)
+// $AU-color-background-alt-shade (#e0e0e0)
+
+
+// Dark palette
+// ==============
+
+// Default values - can be overridden with your own colours
+$AU-colordark-foreground-action: #ffffff !default;
+$AU-colordark-foreground-focus:  #F26322 !default;
+$AU-colordark-foreground-text:   #ffffff !default;
+$AU-colordark-background:        #002D3F !default;
+
+// Generated values - automatically created from default values
+// $AU-colordark-foreground-muted     (#bdd2d7)
+// $AU-colordark-foreground-border    (#95b7bf)
+// $AU-colordark-background-shade     (#104f5f)
+// $AU-colordark-background-alt       (#0d414d)
+// $AU-colordark-background-alt-shade (#0a323c)
+//Main nav, set project specific breakpoint
+$AU-main-nav-breakpoint: sm;
+
+
+
+// UI-Kit
+@import './_auds.scss'; 
+
+
+// Reset the body
+body {
+	padding: 0;
+	margin: 0;
+}
+
+// Increase the spacing for au-body elements inside main
+main > .au-body {
+	@include AU-space( padding, 2unit 0 );
+
+}
+
+main > .banner {
+
+	@include AU-media( sm ) {
+		@include AU-space( padding, 4unit 0 );
+	}
+}
+
+
+// Slight grid changes for container fluid
+.au-grid .container-fluid {
+	@include AU-space( max-width, 80unit );
+
+	@include AU-media( sm ){
+		@include AU-space( padding-left, 2unit );
+		@include AU-space( padding-right, 2unit );
+	}
+}
+
+// Increase spacing between inline list items in footer
+.au-footer .au-link-list--inline li {
+	@include AU-space( padding-right, 1unit );
+}
+
+// The call to actions on the home page
+.btn-cta-group {
+	@include AU-space( margin-top, 1unit );
+
+	.au-btn {
+		@include AU-space( margin-top, 1unit );
+	}
+}
+
+// Mobile side nav spacing
+.au-side-nav {
+	@include AU-space( margin-bottom, 2unit );
+
+	@include AU-media( sm ){
+		margin-bottom: 0;
+	}
+}
+
+form {
+	@include AU-space( margin-top, 2unit );
+}
+
+.hide_content {
+	display: none;
+}
+
+//increase the space between form groups
+.au-form-group + .au-form-group {
+	@include AU-space( 'margin-top', 2unit)
+}
+
+.articles-cta {
+	@include AU-space( 'margin-top', 0.25unit );
+	text-align: right;
+
+	@include AU-media( md ) {
+		@include AU-space( 'margin-top', 1unit );
+	}
+}
+
+
+.au-header .au-search {
+
+	width: 100%;
+	@include AU-media( xs ) {
+		width: 75%;
+	}
+	@include AU-media( sm ) {
+		width: 100%;
+	}
+}
