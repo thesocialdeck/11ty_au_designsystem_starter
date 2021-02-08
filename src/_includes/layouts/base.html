@@ -27,23 +27,51 @@
       {% endfor %}
     {% endif %}
   </head>
-  <body class="au-grid">
-    <div class="au-body">
+      
       {% include "partials/site-head.html" %}
 
-      <main tabindex="-1" id="main-content">
+      <main tabindex="-1" id="main-content" class="au-grid">
+        
+
+    <!-- Original Template -->    
         <section class="au-body">
-          <div class="container-fluid">
+     
+        <div class="container-fluid">
+          <div class="row">
+         <!-- <div class="col-md-9">  -->
         {% block content %}{% endblock %}
-      </div>
-		</section>
+          </div>
+        </div>
+        </div>
+        </div>
+        </section>
+		
       </main>
 
-      <footer role="contentinfo" class="au-footer au-footer--dark au-body au-body--dark">
-        <div class="wrapper">
-          <p>This is a made up agency for the course, <a href="https://piccalil.li/course/learn-eleventy-from-scratch/">“Learn Eleventy From Scratch”</a>.</p>
-        </div>
-      </footer>
+      <!--FOOTER -->
+<div class="au-grid">
+      <footer class="au-footer au-footer--dark au-body au-body--dark" role="contentinfo">
+	<div class="container-fluid">
+		<div class="row">
+			<nav class="col-md-12" aria-label="footer">
+				<ul class="au-link-list au-link-list--inline">
+					<li><a href="/privacy">Privacy</a></li>
+					<li><a href="/help">Need Help?</a></li>
+					<li><a href="/accessibility">Accessibility</a></li>
+				</ul>
+			</nav>
+			<section class="col-sm-12">
+        
+				<div class="au-footer__end">
+          <p>
+            Engagement Hub by <a href="https://github.com/govau/design-system-starter/blob/master/LICENSE" rel="external">The Social Deck</a>
+          </p>
+					<p>	© Commonwealth of Australia. With the exception of the Commonwealth Coat of Arms and where otherwise noted, this work is licensed under the <a href="https://github.com/govau/design-system-starter/blob/master/LICENSE" rel="external">MIT license</a>
+					</p>
+				</div>
+			</section>
     </div>
+  </div>
+</footer>
   </body>
 </html>

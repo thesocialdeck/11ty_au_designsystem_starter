@@ -7,12 +7,44 @@
   <article>
     {% include "partials/page-header.html" %}
   </article>
-  <div class="[ panel dot-shadow ] [ bg-tertiary-glare ]">
+<div class="au-body">
+  <div class="row">
+    
+    <ul class="au-card-list au-card-list--matchheight">
+        <li class="col-sm-3 col-xs-6">
+            <div class="au-card">
+            <div class="au-card__inner">
+                <div class="au-card__title">
+                  {% for item in collections.work %}
+                        <h2>{{ item.data.title }}</h2>
+                </div>
+                <p>{{ item.data.summary }}</p>
+                <p>Additional text</p>
+            </div>
+        </div>
+        </li>
+        <li class="col-sm-3 col-xs-6">
+            <div class="au-card">
+            <div class="au-card__inner">
+                <div class="au-card__title">
+                        <h2>Card 2</h2>
+                </div>
+                <p>Some text</p>
+                <p>Additional text</p>
+                <p>More text</p>
+            </div>
+        </div>
+        </li>
+        {% endblock %}
+    </ul>
+</div> 
+
+ <!-- <div class="[ panel dot-shadow ] [ bg-tertiary-glare ]">
     <div class="wrapper">
       <article class="[ gallery ] [ flow flow-space-800 ]">
         {% for item in collections.work %}
         <figure class="[ gallery__item ] [ flow ]">
-          <div class="[ gallery__media ] [ frame ]" data-frame="primary">
+          <div class=""au-card>
             <img
               class="radius"
               src="{{ item.data.hero.image }}"

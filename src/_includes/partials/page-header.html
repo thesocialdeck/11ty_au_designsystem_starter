@@ -1,12 +1,15 @@
-<div class="au-callout">
-  <div class="[ wrapper ] [ flow ]">
-    <h1 class="au-display-xxxl" data-highlight="primary">
-      {{ pageHeaderTitle }}
+<div class="au-body au-body--alt">
+  <div class="container-fluid">
+ 
+    <h1 data-highlight="primary">
+    {{ pageHeaderTitle }}
     </h1>
+    <div>
     {% if pageHeaderSummary %}
-    <div class="[ page-header__summary ] [ measure-long ]">
+   
       {{ pageHeaderSummary | safe }}
     </div>
     {% endif %}
   </div>
+</div>
 </div>

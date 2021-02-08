@@ -1,15 +1,35 @@
-<div class="au-card" id="post-list">
-  <div class="au-card__inner">
+<div class="au-body" id="post-list">
     {% if postListHeadline %}
-    <h2 class="au-card__title">
+    <h2>
       {{ postListHeadline }}
     </h2>
     {% endif %}
-    <div>
-      <ul class="au-link-list au-keyword-list au-keyword-list--dark">
+    <div class="row">
+      <ul class="au-card-list au-card-list--matchheight">
+        {% for item in postListItems %}
+          <li class="col-sm-3 col-xs-6">
+              <div class="au-card">
+                <img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />
+              <div class="au-card__inner">
+                  <div class="au-card__title">
+                          <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+                  </div>
+                  <p>{{ item.data.summary}}</p>
+                  <p>{{ item.data.tags}}</p>
+              </div>
+          </div>
+          </li>
+          {% endfor %}
+      </ul>
+  </div>
+      <!-- Original code
+        
+        <ul class="au-link-list au-keyword-list au-keyword-list--dark">
         {% for item in postListItems %}
         <li>
           <a href="{{ item.url }}">{{ item.data.title }}</a>
+          <p>{{ item.data.summary}}</p>
+          <p>{{ item.data.tags}}</p>
         </li>
         {% endfor %}
       </ul>

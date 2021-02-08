@@ -2,6 +2,7 @@
 title: '10 Tips for Website Redesign in 2020'
 date: '2020-01-02'
 tags: ['Tips And Tricks']
+summary: 'Utilis templum verbis, date Sidonide et fugit, iram vela cultros pennis et nimium. Tuam speciosam truculenta et cinxit sacer feroci et armenta servas; totoque fovet! Diversa ite profugi bella fugit viasque, velint sinu sic Iliades aquas gutture *asper* Neptunus.'
 ---
 Lorem markdownum **verbis**, fertur *fas* poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum [illis](#murmurat-veros-tepescunt), et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.
 

@@ -1,11 +1,11 @@
 ---
-title: 'Issue 33'
+title: 'Skills Reform'
 metaDesc: 'A made up agency site that you build if you take Learn
 Eleventy From Scratch, by Piccalilli'
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'Digital Marketing is our'
-  main: 'Bread & Butter'
+  main: 'Skills Reform'
   summary: 'Let us help you create the perfect campaign with our multi-faceted team of talented creatives.'
   buttonText: 'See our work'
   buttonUrl: '/work'
@@ -26,3 +26,6 @@ featuredWork:
 studioFeed:
   title: 'From inside the studio'
 ---
+ ## Overview
+
+ The VET sector supports and develops diverse skills across a broad range of industries. Importantly, a strong VET sector will ensure Australia has a highly skilled workforce ready for the job market, now and into the future.

@@ -2,7 +2,7 @@
 @import 'config';
 
 // Next: pull in gorko for design tokens
-@import '../../node_modules/gorko/gorko.scss';
+//@import '../../node_modules/gorko/gorko.scss';
 
 @import 'reset';
 
@@ -10,16 +10,15 @@
 // ==============
 
 // Default values - can be overridden with your own colours
-$AU-color-foreground-action:     #1C587D !default;
-$AU-color-foreground-focus:      #F26322 !default;
-$AU-color-foreground-text:       #002D3F !default;
+$AU-color-foreground-action:     #002D3E !default;
+$AU-color-foreground-focus:      #6FC6AA !default;
+$AU-color-foreground-text:       #000000 !default;
 $AU-color-background:            #ffffff !default;
 
 // Generated values - automatically created from default values
-// $AU-color-foreground-muted     (#626262)
 // $AU-color-foreground-border    (#808080)
 // $AU-color-background-shade     (#f5f5f5)
-// $AU-color-background-alt       (#ebebeb)
+// $AU-color-background-alt       (#6FC6AA)
 // $AU-color-background-alt-shade (#e0e0e0)
 
 
@@ -27,10 +26,10 @@ $AU-color-background:            #ffffff !default;
 // ==============
 
 // Default values - can be overridden with your own colours
-$AU-colordark-foreground-action: #ffffff !default;
-$AU-colordark-foreground-focus:  #F26322 !default;
+$AU-colordark-foreground-action: #6FC6AA!default;
+$AU-colordark-foreground-focus:  #FFCF51 !default;
 $AU-colordark-foreground-text:   #ffffff !default;
-$AU-colordark-background:        #002D3F !default;
+$AU-colordark-background:        #002D3E !default;
 
 // Generated values - automatically created from default values
 // $AU-colordark-foreground-muted     (#bdd2d7)
@@ -49,8 +48,8 @@ $AU-main-nav-breakpoint: sm;
 
 // Reset the body
 body {
-	padding: 0;
-	margin: 0;
+	padding: 2;
+	margin: 2;
 }
 
 // Increase the spacing for au-body elements inside main
@@ -80,6 +79,11 @@ main > .banner {
 // Increase spacing between inline list items in footer
 .au-footer .au-link-list--inline li {
 	@include AU-space( padding-right, 1unit );
+}
+
+// Increase spacing between inline list items in footer
+.au-link-list{
+	@include AU-space( margin-bottom, 2unit );
 }
 
 // The call to actions on the home page

@@ -1,0 +1,35 @@
+{% extends "layouts/base.html" %}
+
+{% set pageCriticalStyles = ['css/home.css'] %} 
+
+{% block content %}
+<main class="au-grid">
+    <div class="au-body">
+    <div class="container-fluid">
+      <h1>{{ title }}</h1>
+    <div class="row">
+        <div class="col-xs-8"><img
+          class="au-responsive-media-img"
+          src="{{ image }}"
+          alt=""
+        />
+        </div>
+        <p>{{ summary }}</p>
+
+        
+          {% include "partials/engagement-list.html" %}
+        
+          
+          <!--Why consulting-->
+
+  
+
+ 
+
+</div>
+</div>
+</main>
+{% endblock %}
+          
+
+        

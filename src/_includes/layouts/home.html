@@ -3,30 +3,83 @@
 {% set pageCriticalStyles = ['css/home.css'] %} 
 
 {% block content %}
-<div class="wrapper">
-  <article class="intro">
-    <div class="[ intro__header ] [ radius frame ]">
-      <h1 class="[ intro__heading ] [ weight-normal text-400 md:text-600 ]">
-        {{ intro.eyebrow }}
-        <em class="text-800 md:text-900 lg:text-major weight-bold">{{ intro.main }}</em>
-      </h1>
+<main class="au-grid">
+<div class="au-body">
+<div class="container-fluid">
+  <h1>{{ intro.main }}</h1>
+<div class="row">
+    <div class="col-xs-8"><img
+      class="au-responsive-media-img"
+      src="{{ intro.image }}"
+      alt="{{ intro.imageAlt }}"
+    />
+      
+      {{ content | safe }}</div>
+    <div class="col-xs-4">
+      <section>
+      <div class="au-body au-body--dark">
+        <div class="container-fluid">
+        <h2>Skills Reform Areas</h2> 
+      <ul class="au-link-list">
+        <li><a href="#">Industry engagement</a></li>
+        <li><a href="#">Quality</a></li>
+        <li><a href="#">Qualifications</a></li>
+        <li><a href="#">Qualifications</a></li>
+      </ul>
+      </div>
     </div>
-    <div class="[ intro__content ] [ flow ]">
-      <p class="intro__summary">{{ intro.summary }}</p>
-      <a href="{{ intro.buttonUrl }}" class="button">{{ intro.buttonText }}</a>
+  </section>
+  <section>
+      <div class="au-body au-body--dark">
+        <div class="container-fluid">
+        <h2>Get involved</h2> 
+      <ul class="au-link-list">
+        <li><a href="#">Papers</a></li>
+        <li><a href="#">Surveys</a></li>
+        <li><a href="#">Workshops</a></li>
+        <li><a href="#">Webinars</a></li>
+        <li><a href="#">Webinars</a></li>
+      </ul>
+      </div>
+      {% set ctaContent = primaryCTA %} 
+    {% include "partials/cta.html" %} 
     </div>
-    <div class="[ intro__media ] [ radius dot-shadow ]">
-      <img
-        class="[ intro__image ] [ radius ]"
-        src="{{ intro.image }}"
-        alt="{{ intro.imageAlt }}"
-      />
     </div>
-  </article>
+    
+  </div>
+</section>
+
+
+<!--Audiences-->
+<section>
+<div class="au-body au-body--alt">
+    <div class="container-fluid">
+      <h2>We want to hear from</h2>
+      {% include "partials/audience-list.html" %} </div>
+    </div>
+  </div>
 </div>
+  </section>
+  
+<!--Why consulting-->
+<section>
+      <h2>{{ intro.why }}</h2>
+      <p>{{ intro.because }}</p>
+
+</section>
+     
+   
+</div>
+</div>
+</main>
+{% endblock %}
+
+<!--
 
 {% set ctaContent = primaryCTA %} 
 {% include "partials/cta.html" %} 
+
+</div>
 
 {% include "partials/featured-work.html" %} 
 {% include "partials/studio-feed.html" %} 
@@ -34,4 +87,5 @@
 {% set ctaContent = cta %} 
 {% include "partials/cta.html" %} 
 
-{% endblock %}
+
+

@@ -1,6 +1,6 @@
 ---
 title: 'About Issue 33'
-layout: 'layouts/about.html'
+layout: 'layouts/page.html'
 permalink: '/about-us/index.html'
 ---
 
