@@ -52,6 +52,21 @@ module.exports = config => {
     return [...collection.getFilteredByGlob('./src/posts/*.md')].reverse();
   });
 
+  // Returns a collection of open surveys in reverse date order
+  config.addCollection('surveys', collection => {
+    return [...collection.getFilteredByGlob('./src/engagement/surveys/*.md')].reverse();
+  });
+
+  // Returns a collection of open workshops in reverse date order
+  config.addCollection('workshops', collection => {
+    return [...collection.getFilteredByGlob('./src/engagement/workshops/*.md')].reverse();
+  });
+
+  // Returns a collection of open papers in reverse date order
+  config.addCollection('papers', collection => {
+    return [...collection.getFilteredByGlob('./src/engagement/papers/*.md')].reverse();
+  });
+
    // Returns a collection of engagement in reverse date order
    config.addCollection('engagement', collection => {
     return sortByDisplayOrder(collection.getFilteredByGlob('./src/engagement/*.md'));

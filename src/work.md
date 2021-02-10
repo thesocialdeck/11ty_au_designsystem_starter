@@ -1,6 +1,6 @@
 ---
 title: 'Our finest work'
-layout: 'layouts/work-landing.html'
+layout: 'layouts/page.html'
 ---
 
 Some of our finest work from websites right through to printed

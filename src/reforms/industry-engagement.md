@@ -3,7 +3,8 @@ title: 'Industry Engagement'
 date: '2021-01-02'
 tags: ['Potatoes']
 DisplayOrder: '1'
-summary: 'Vocational education and training (VET) is central to Australia’s economic growth and business productivity and is a key part of Australia’s economic recovery from COVID-19. The Commonwealth, state and territory governments have agreed to reforming the VET system to ensure it is delivering for learners and employers. This will equip Australians with the skills they need to upskill in current roles or apply to new and emerging jobs.'
+image: 
+summary: 'Improving industry engagement arrangements in the VET system is vital to these reforms.'
 ---
 
 Improving industry engagement arrangements in the VET system is vital to these reforms. This paper seeks stakeholder views on improving industry engagement in Australia’s VET system.

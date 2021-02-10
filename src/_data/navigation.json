@@ -5,20 +5,24 @@
       "url": "/"
     },
     {
-      "text": "About",
+      "text": "Skills reform areas",
       "url": "/about-us/"
     },
     {
-      "text": "Work",
-      "url": "/work/"
+      "text": "Get involved",
+      "url": "/get-involved/"
     },
     {
-      "text": "Blog",
+      "text": "What we've heard",
       "url": "/blog/"
     },
     {
-      "text": "Events",
-      "url": "/events/"
+      "text": "Resources",
+      "url": "/resources/"
+    },
+    {
+      "text": "FAQ",
+      "url": "/FAQ/"
     },
     {
       "text": "Contact",
