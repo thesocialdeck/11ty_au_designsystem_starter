@@ -7,13 +7,13 @@
 <div class="au-body">
 <div class="container">
 <div class="row">
-    <div class="col-xs-9">
+    <div class="col-xs-12 col-md-9">
       <img
       class="au-responsive-media-img"
       src="{{ intro.image }}"
       alt="{{ intro.imageAlt }}"/>
       </div>
-    <div class="col-xs-3">
+    <div class="col-xs-12 col-md-3">
 <!--Get involved CTA-->
   <section class="au-callout au-callout--dark">
     <h2>Get involved</h2>   
@@ -37,13 +37,13 @@
 <section class="au-body">
   <div class="container">
 <div class="row">
-    <div class="col-xs-6">
+    <div class="col-xs-12 col-md-6">
       <h2>Skills Reforms Consultations </h2>
-      <p class="au-introduction">{{ intro.summary }}</p>
+      <div class="au-callout">{{ intro.summary }}</div>
       
       {{ content | safe }}</div>
       <div>
-        <h2>Skills Reform Areas</h2>
+        
       </div>
       {% include "partials/reform-list.html" %} 
       </div>
@@ -68,17 +68,30 @@
 <section class="au-body au-body--dark">
   <div>
   <div class="container">
-      <h2>How to get involved</h2>
-      <p>More testing</p>
+    <div class="col-xs-12 col-md-3">
+      <h2>Get involved</h2>
+      <p>Governments want to hear from you about reforms to the vocational education and training (VET) system. During the consultation periods, there will be a range of ways you can provide input to help shape the reforms. </p>
+    </div>
+      <div class="col-xs-12 col-md-9">
+        {% include "partials/engagement-list.html" %} 
+      </div>
     </div>
   </div>
+  </div>
+
+</section>
 </section>
 
 <!--background-->
 <section class="au-body">
     <div class="container">
       <h2>Background</h2>
-      <p>More testing</p>
+<p>The National Skills Reform Agenda is about improving the VET sector to ensure Australia has a highly skilled workforce ready for the job market, now and into the future.</p>
+<p>These reforms are the next step in improving the VET system and continuing the work undertaken through reviews and consultations over the past 18 months.</p>
+<p>The VET sector supports and develops diverse skills across a broad range of industries. A strong VET sector is vital to the Australian economy. Reforms will strengthen the training system and support Australia&#39;s immediate recovery after the impacts of COVID-19.</p>
+<p>The feedback we receive will be considered by Skills Ministers to inform decisions on future arrangements in the VET system.</p>
+<p>You can find out more about Skills Reform in our <a href="/faq">Frequently Asked Questions page.</a></p>
+
     </div>
 
 </section>

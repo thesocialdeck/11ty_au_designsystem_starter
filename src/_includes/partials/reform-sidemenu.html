@@ -1,0 +1,54 @@
+<section class="au-body">
+  
+    <div>
+        <div class="container-fluid">
+    {% if postListHeadline %}
+    <h2>
+      {{ postListHeadline }}
+    </h2>
+    {% endif %}
+    <div class="row">
+    <aside class="au-side-nav au-accordion" aria-label="side navigation">
+      <button 
+        class="au-side-nav__toggle au-accordion__title au-accordion--closed" 
+        aria-controls="nav-default"
+        aria-expanded="false"  
+        onclick="return AU.accordion.Toggle( this )"
+      >
+        In this section
+      </button>
+      <div id="nav-default" class="au-side-nav__content au-accordion--closed au-accordion__body">
+        <h2 class="au-sidenav__title">
+          <a href="#">Skills reform areas</a>
+        </h2>
+        <ul class="au-link-list">
+          {% for item in collections.reforms %}
+          <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </aside>
+        </div>
+    </div>
+</div>
+</section>
+
+
+
+
+
+ 
+      <!-- Original code
+        
+        <ul class="au-link-list au-keyword-list au-keyword-list--dark">
+        {% for item in postListItems %}
+        <li>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+          <p>{{ item.data.summary}}</p>
+          <p>{{ item.data.tags}}</p>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

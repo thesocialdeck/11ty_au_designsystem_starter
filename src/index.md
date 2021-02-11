@@ -4,7 +4,7 @@ metaDesc: 'We are asking for your views on how to improve the VET system'
 layout: 'layouts/home.html'
 intro:
   main: 'Skills Reform Consultations'
-  summary: 'We are asking for your views on how to improve the VET system. There will be multiple opportunities for you to provide your feedback, views and thoughts on improving VET.  This will include discussion papers, workshops and online surveys. We will continue to update this page with opportunities to engage in the coming weeks and months. '
+  summary: 'Have your say to help shape the future of Australia’s VET system. '
   buttonText: 'See our work'
   buttonUrl: '/work'
   image: '/images/bg/toast.jpg'
@@ -24,14 +24,19 @@ featuredWork:
 studioFeed:
   title: 'From inside the studio'
 ---
-Whether you’re an employer, employee, business owner, learner, apprentice, job seeker, peak body, union, employer association or Registered Training Organisation (RTO), you will likely have experience with the vocational education and training (VET) sector.
 
-The VET sector supports and develops diverse skills across a broad range of industries. Importantly, a strong VET sector will ensure Australia has a highly skilled workforce ready for the job market, now and into the future.
+We're building better qualifications, better training, and a better role for industry and employers in Australia's vocational education and training (VET) sector.
 
-Recognising the importance of a high quality VET system that works for everyone, Australian governments (both at the national and state and territory level) have agreed to immediately progress reforms in the following key areas:
+Be part of the Skills Reform and have your say on [immediate reforms](https://www.pmc.gov.au/resource-centre/domestic-policy/heads-agreement-skills-reform) to:
 
-* strengthening the role of industry and employers
-* improving VET qualifications
-* raising the quality of training
+-   strengthen the role of industry and employers in the VET system
 
-These reforms are the next step in improving Australia’s VET system, building on previous consultations and feedback received from across the sector.
+-   improve VET qualifications
+
+-   raise the quality of training.
+
+We want to hear from anyone with an interest in the VET system. This includes those who have undertaken VET training, employers and business owners, Registered Training Organisations (RTO), trainers and assessors and organisations who support the VET sector and its industries.
+
+There are different ways to get involved-attend an online consultation event, complete a survey or send a submission.
+
+Changes to the VET system are required so that Australians can access high quality and relevant training, ensuring they have the skills to take on the jobs that emerge through the next decade and beyond.

@@ -1,40 +1,49 @@
 ---
 title: 'Quality'
-date: '2021-01-02'
+date: '2021-01-03'
 tags: ['Potatoes']
-DisplayOrder: '2'
-summary: 'Mmm potato bake!'
+image: '/images/icons/quality.png'
+DisplayOrder: '3'
+summary: 'Have your say to help raise the quality of training in the VET sector.'
 ---
-Lorem markdownum **verbis**, fertur *fas* poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum [illis](#murmurat-veros-tepescunt), et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.
+A strong and well-supported training system will enable RTOs to strive for excellence and enhance the quality of training. 
 
-1. Addenda ventis non
-2. Sol inpia ne arboreis
-3. Iam grates voluit cumque
-4. Vestigia et clipei adhaeret atque aristas collaque
-5. Furialibus Aonius morati optari nullique Hersilie manus
+This will benefit both learners and employers.
 
-## Dispositam terribilis quae
+We want to hear from those who engage in the VET sector, including RTOs, employers, educators and learners, about:
+* how we create a shared understanding of RTO quality and support RTO excellence
+* what works and what doesn’t in the current Standards for Registered Training Organisations (RTOs) 2015
+* how we ensure a high quality VET workforce now and into the future
 
-Cognoscite gerens causam circumstant *luctus cupioque* morte, fera coniunx frustra Cnosiacaeque, cupidisque tempus Achaia. Pericla multis blanda! Et terribili, nec, **trepidans** pro; toto nam urbesque.
+## Background
 
-Utilis templum verbis, date Sidonide et fugit, iram vela cultros pennis et nimium. Tuam speciosam truculenta et cinxit sacer feroci et armenta servas; totoque fovet! Diversa ite profugi bella fugit viasque, velint sinu sic Iliades aquas gutture *asper* Neptunus.
+Skills Ministers have committed to raising the quality of training delivered within the VET sector through:
 
-## Tu viginti non
+-   revising the *Standards for Registered Training Organisations (RTOs) 2015* (the Standards)
 
-Dedit profundo similis Aurora Luna obscenique; innato amabam scopulos Idan? Ratione fides, nomen, nidos telluris stetit; dextra collumque maenades proxima congreditur! Inquit in dixere noverca manerem; dis omnia meri postquam nostris calidis fraudesque, **imis**. **Probavit coniunx quoque**, me mentior geniti fatorum vulnus.
+-   improving the capability and capacity of RTOs for continuous improvement
 
-- Est et haec bitumine documenta ora at
-- Possent herbas
-- Iacens caelo guttae
-- Unus regni
-- Ad aras pueroque nomen
+-   developing a VET Workforce Quality Strategy.
 
-## Ut iugo quod
+These reforms aim to improve the quality of training across Australia. The reforms will lead to a shared understanding across the sector of what high quality training provision looks like. They will help to ensure the quality of training delivery goes beyond compliance with the Standards and achieves excellence in training provision.
 
-In Alce ergo vestem Dixit pede non ut **sumit** exercent. Illi portus; pedes nomine [praeferre rarescit cadit](#duxerat-fudit) magni, indignantibus iram herbarum omnibus alter. Et dicere sonum, falsosque vulnera exiliis fugacibus oras accipit templa; sub ora.
+A key focus of Quality reforms will be to strengthen the Standards, to ensure they are focussed on outcomes. Strengthening the Standards will make sure the minimum level of quality that an RTO must meet in order to operate within the national training system is sufficient and delivers positive outcomes for learners.
 
-1. Quae equos versus iura leti germanae sibi
-2. Vertice innubere velox et postquam fugae credulitate
-3. Mihi scelerataque extendi nec istis nostris caput
+The development of a VET Workforce Quality Strategy (the Strategy) recognises the important contribution trainers and assessors make to a high-quality VET sector.
 
-Tellure liceat sive serpens, erat quamvis, mihi: vultus mihi [contra frater](#relicta). Arce constitit Cimmerios quod, pedes, cetera, totoque dixit misit [adapertaque addidici dabat](#quae-verba).
+Trainers and assessors are at the front line of training delivery. They have a vital role in passing on industry relevant knowledge to learners to meet Australia's employment and productivity needs. The Strategy will aim to support RTOs and trainers and assessors to promote high quality, consistent training and assessment and support the diverse workplace roles within the sector.
+
+These reforms build on findings from recent reviews within the vocational education and training (VET) sector, which highlighted opportunities to enhance quality in the VET sector. They include
+
+-   [Review of the National Vocational Education and Training Regulator Act 2011](https://www.dese.gov.au/uncategorised/resources/all-eyes-quality-review-national-vocational-education-and-training-regulator-act-2011-report) (Braithwaite Review)
+
+-   [Expert review of Australia's vocational education and training system](https://www.pmc.gov.au/resource-centre/domestic-policy/vet-review/strengthening-skills-expert-review-australias-vocational-education-and-training-system) (Joyce Review)
+
+-   [Rapid review of the Australian Skills Quality Authority's regulatory practices and processes](https://www.dese.gov.au/resources/asqa-rapid-review-final-report) (ASQA Rapid Review).
+
+Read the Quality reform issues papers for more information about what is being considered in the Quality reforms:
+
+-   [RTO quality (including the Standards)](https://www.dese.gov.au/skills-reform-consultation/resources/rto-quality-issues-paper)
+
+-   [VET Workforce Quality Strategy]
+

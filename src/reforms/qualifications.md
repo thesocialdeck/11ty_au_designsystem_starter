@@ -2,39 +2,25 @@
 title: 'Qualifications'
 date: '2021-01-02'
 tags: ['Potatoes']
-DisplayOrder: '3'
-summary: 'Mmm potato bake!'
+DisplayOrder: '2'
+image: '/images/icons/qualifications.png'
+summary: 'Have your say about improving the way we design qualifications and training in the VET sector.'
 ---
-Lorem markdownum **verbis**, fertur *fas* poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum [illis](#murmurat-veros-tepescunt), et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.
+Have your say about improving the way we design qualifications and training in the VET sector.
 
-1. Addenda ventis non
-2. Sol inpia ne arboreis
-3. Iam grates voluit cumque
-4. Vestigia et clipei adhaeret atque aristas collaque
-5. Furialibus Aonius morati optari nullique Hersilie manus
+We’re working with industries and the VET sector to improve the way qualifications are designed. The Skills Reform includes simplifying and streamlining national VET qualifications across industries.
 
-## Dispositam terribilis quae
+Qualification design trials are being run through three Skills Organisation Pilots covering Human Services, Digital and Mining.
 
-Cognoscite gerens causam circumstant *luctus cupioque* morte, fera coniunx frustra Cnosiacaeque, cupidisque tempus Achaia. Pericla multis blanda! Et terribili, nec, **trepidans** pro; toto nam urbesque.
+## Background
 
-Utilis templum verbis, date Sidonide et fugit, iram vela cultros pennis et nimium. Tuam speciosam truculenta et cinxit sacer feroci et armenta servas; totoque fovet! Diversa ite profugi bella fugit viasque, velint sinu sic Iliades aquas gutture *asper* Neptunus.
+The Australian, state and territory governments have agreed that an immediate priority under the Heads of Agreement for Skills Reform is to simplify, rationalise and streamline national VET qualifications across industry occupation groupings and the Australian Qualifications Framework.
 
-## Tu viginti non
+Better qualifications will help to strengthen the training system and support Australia's immediate recovery from COVID-19. Reforms could also support greater employee mobility, to meet the job and market demands of the future, leading to better outcomes for employers and learners.
 
-Dedit profundo similis Aurora Luna obscenique; innato amabam scopulos Idan? Ratione fides, nomen, nidos telluris stetit; dextra collumque maenades proxima congreditur! Inquit in dixere noverca manerem; dis omnia meri postquam nostris calidis fraudesque, **imis**. **Probavit coniunx quoque**, me mentior geniti fatorum vulnus.
+There are more than 1,300 qualifications in the current national training system, 13 per cent of which have zero enrolments and 50 per cent having less than 222 enrolments between 2016-2018.
 
-- Est et haec bitumine documenta ora at
-- Possent herbas
-- Iacens caelo guttae
-- Unus regni
-- Ad aras pueroque nomen
+The complexity of the national training system hinders employers and learners from readily identifying the qualifications and skillsets they need to gain the right skills and build their workforce. Stronger employer collaboration is needed to foster cross-sector career pathways and maximise mobility for workers.
 
-## Ut iugo quod
+Read more in the discussion paper.
 
-In Alce ergo vestem Dixit pede non ut **sumit** exercent. Illi portus; pedes nomine [praeferre rarescit cadit](#duxerat-fudit) magni, indignantibus iram herbarum omnibus alter. Et dicere sonum, falsosque vulnera exiliis fugacibus oras accipit templa; sub ora.
-
-1. Quae equos versus iura leti germanae sibi
-2. Vertice innubere velox et postquam fugae credulitate
-3. Mihi scelerataque extendi nec istis nostris caput
-
-Tellure liceat sive serpens, erat quamvis, mihi: vultus mihi [contra frater](#relicta). Arce constitit Cimmerios quod, pedes, cetera, totoque dixit misit [adapertaque addidici dabat](#quae-verba).

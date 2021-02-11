@@ -42,7 +42,9 @@ module.exports = config => {
     return [...collection.getFilteredByGlob('./src/audiences/*.md')].reverse();
   });
 
-  // Returns a collection of reforms in reverse date order
+  
+
+  // Returns work items, sorted by display order
   config.addCollection('reforms', collection => {
     return sortByDisplayOrder(collection.getFilteredByGlob('./src/reforms/*.md'));
   });
