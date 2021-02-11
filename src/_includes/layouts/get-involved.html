@@ -1,0 +1,58 @@
+{% extends "layouts/base.html" %}
+
+{% set pageCriticalStyles = ['css/home.css'] %} 
+
+{% block content %}
+<main class="au-grid">
+    <section class="au-body">
+    <div class="container">
+      <h1>{{ title }}</h1>
+        
+        <p>{{ summary }}</p>
+      </div>
+    </div>
+   
+    </section>
+<!--Surveys-->
+    <section class="au-body">
+  <div>
+      <div class="container">
+      <h2>Surveys</h2>
+      <div>
+      {% include "partials/survey-list.html" %}
+    </div>
+</section>
+
+<!--Papers-->
+<section class="au-body">
+  <div>
+      <div class="container">
+      <h2>Papers</h2>
+      <div>
+      {% include "partials/papers-list.html" %}
+    </div>
+</section>
+
+<!--Workshops-->
+<section class="au-body">
+  <div>
+      <div class="container">
+      <h2>Workshops</h2>
+      <div>
+      {% include "partials/workshops-list.html" %}
+    </div>
+</section>
+
+<!--Webinars
+<section class="au-body">
+  <div>
+      <div class="container">
+      <h2>Papers</h2>
+      <div>
+      {% include "partials/survey-list.html" %}
+    </div>
+</section>-->
+      
+
+</main>
+{% endblock %}

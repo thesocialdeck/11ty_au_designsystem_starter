@@ -4,11 +4,10 @@
 <!--{% set pageCriticalStyles = ['css/page.css'] %}-->
 
 {% block content %}
-<section class="au-body">
-  <div class="container-fluid">
+  <div class="container">
 <article>
   {% include "partials/page-header.html" %}
-  
+  <section class="au-body">
       {{ content | safe }}
     
   </div>

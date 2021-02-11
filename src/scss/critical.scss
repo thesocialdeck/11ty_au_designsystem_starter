@@ -1,16 +1,16 @@
 // First up: config and functions
-@import 'config';
+//@import 'config';
 
 // Next: pull in gorko for design tokens
 //@import '../../node_modules/gorko/gorko.scss';
 
-@import 'reset';
+//@import 'reset';
 
 // Light palette
 // ==============
 
 // Default values - can be overridden with your own colours
-$AU-color-foreground-action:     #002D3E !default;
+$AU-color-foreground-action:     #008377 !default;
 $AU-color-foreground-focus:      #6FC6AA !default;
 $AU-color-foreground-text:       #000000 !default;
 $AU-color-background:            #ffffff !default;
@@ -29,7 +29,7 @@ $AU-color-background:            #ffffff !default;
 $AU-colordark-foreground-action: #6FC6AA!default;
 $AU-colordark-foreground-focus:  #FFCF51 !default;
 $AU-colordark-foreground-text:   #ffffff !default;
-$AU-colordark-background:        #002D3E !default;
+$AU-colordark-background:        #002D3F !default;
 
 // Generated values - automatically created from default values
 // $AU-colordark-foreground-muted     (#bdd2d7)
@@ -137,3 +137,4 @@ form {
 		width: 100%;
 	}
 }
+

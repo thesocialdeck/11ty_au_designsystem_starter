@@ -1,12 +1,10 @@
 ---
 title: 'Skills Reform'
-metaDesc: 'A made up agency site that you build if you take Learn
-Eleventy From Scratch, by Piccalilli'
+metaDesc: 'We are asking for your views on how to improve the VET system'
 layout: 'layouts/home.html'
 intro:
-  eyebrow: 'Digital Marketing is our'
-  main: 'Skills Reform'
-  summary: 'Let us help you create the perfect campaign with our multi-faceted team of talented creatives.'
+  main: 'Skills Reform Consultations'
+  summary: 'We are asking for your views on how to improve the VET system. There will be multiple opportunities for you to provide your feedback, views and thoughts on improving VET.  This will include discussion papers, workshops and online surveys. We will continue to update this page with opportunities to engage in the coming weeks and months. '
   buttonText: 'See our work'
   buttonUrl: '/work'
   image: '/images/bg/toast.jpg'
@@ -26,6 +24,14 @@ featuredWork:
 studioFeed:
   title: 'From inside the studio'
 ---
- ## Overview
+Whether you’re an employer, employee, business owner, learner, apprentice, job seeker, peak body, union, employer association or Registered Training Organisation (RTO), you will likely have experience with the vocational education and training (VET) sector.
 
- The VET sector supports and develops diverse skills across a broad range of industries. Importantly, a strong VET sector will ensure Australia has a highly skilled workforce ready for the job market, now and into the future.
+The VET sector supports and develops diverse skills across a broad range of industries. Importantly, a strong VET sector will ensure Australia has a highly skilled workforce ready for the job market, now and into the future.
+
+Recognising the importance of a high quality VET system that works for everyone, Australian governments (both at the national and state and territory level) have agreed to immediately progress reforms in the following key areas:
+
+* strengthening the role of industry and employers
+* improving VET qualifications
+* raising the quality of training
+
+These reforms are the next step in improving Australia’s VET system, building on previous consultations and feedback received from across the sector.

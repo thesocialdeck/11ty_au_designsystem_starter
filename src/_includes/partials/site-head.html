@@ -1,16 +1,15 @@
-
 <header class="au-grid au-header au-header--dark" role="banner">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
-      <div class="col-md-9">
+      <div class="col-md-6">
         <a class="au-header__brand" href="/" aria-label="{{ site.name }} - home">
-          <img class="au-header__brand-image" alt="Insert alternate text here" src="/images/brand.png">
-          <div class="au-header__text">
+          <img class="au-responsive-media-img" alt="Australian Government, Skills Reform" src="/images/brand.png">
+          <!--<div class="au-header__text">
             <h1 class="au-header__heading">Skills Reforms</h1>
             <div class="au-header__subline">
               A better future for the VET system
             </div>
-          </div>
+          </div>-->
         </a>
       </div>
       <!--<div class="col-md-3">Extras</div> -->
@@ -19,7 +18,7 @@
 
 <nav class="au-main-nav au-main-nav--dark">
   <div class="au-grid">
-  <div class="container-fluid">
+  <div class="container">
         <div id="main-nav-default" class="au-main-nav__content">
           <button
             aria-controls="main-nav-default"
@@ -39,7 +38,7 @@
               </button>
               <ul class="au-link-list">
           {% for item in navigation.items %}
-          <li>
+          <li class="au-display-xl">
             <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}
               >{{ item.text }}</a
             >

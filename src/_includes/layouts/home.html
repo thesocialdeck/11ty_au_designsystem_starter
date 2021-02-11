@@ -1,78 +1,91 @@
 {% extends "layouts/base.html" %}
 
-{% set pageCriticalStyles = ['css/home.css'] %} 
+<!--{% set pageCriticalStyles = ['css/home.css'] %} -->
 
 {% block content %}
-<main class="au-grid">
+<div class="au-grid">
 <div class="au-body">
-<div class="container-fluid">
-  <h1>{{ intro.main }}</h1>
+<div class="container">
 <div class="row">
-    <div class="col-xs-8"><img
+    <div class="col-xs-9">
+      <img
       class="au-responsive-media-img"
       src="{{ intro.image }}"
-      alt="{{ intro.imageAlt }}"
-    />
-      
-      {{ content | safe }}</div>
-    <div class="col-xs-4">
-      <section>
-      <div class="au-body au-body--dark">
-        <div class="container-fluid">
-        <h2>Skills Reform Areas</h2> 
-      <ul class="au-link-list">
-        <li><a href="#">Industry engagement</a></li>
-        <li><a href="#">Quality</a></li>
-        <li><a href="#">Qualifications</a></li>
-        <li><a href="#">Qualifications</a></li>
-      </ul>
+      alt="{{ intro.imageAlt }}"/>
       </div>
-    </div>
-  </section>
+    <div class="col-xs-3">
+<!--Get involved CTA-->
+  <section class="au-callout au-callout--dark">
+    <h2>Get involved</h2>   
+    <p>Your opportunity to have your say on skills reforms</p>
+
+<a href="/get-involved" class="au-btn au-btn--dark au-display-lg">Get involved</a>
+</section>
+
+<!--Sign-up CTA-->
   <section>
-      <div class="au-body au-body--dark">
-        <div class="container-fluid">
-        <h2>Get involved</h2> 
-      <ul class="au-link-list">
-        <li><a href="#">Papers</a></li>
-        <li><a href="#">Surveys</a></li>
-        <li><a href="#">Workshops</a></li>
-        <li><a href="#">Webinars</a></li>
-        <li><a href="#">Webinars</a></li>
-      </ul>
-      </div>
       {% set ctaContent = primaryCTA %} 
     {% include "partials/cta.html" %} 
+  </section>  
     </div>
     </div>
     
   </div>
 </section>
+</div>
+
+<section class="au-body">
+  <div class="container">
+<div class="row">
+    <div class="col-xs-6">
+      <h2>Skills Reforms Consultations </h2>
+      <p class="au-introduction">{{ intro.summary }}</p>
+      
+      {{ content | safe }}</div>
+      <div>
+        <h2>Skills Reform Areas</h2>
+      </div>
+      {% include "partials/reform-list.html" %} 
+      </div>
+    </div>
+</section>
+
+
 
 
 <!--Audiences-->
-<section>
-<div class="au-body au-body--alt">
-    <div class="container-fluid">
+<section class="au-body au-body--alt">
+  <div>
+      <div class="container">
       <h2>We want to hear from</h2>
-      {% include "partials/audience-list.html" %} </div>
+      </div>
+      {% include "partials/audience-list.html" %} 
+    </div>
+</section>
+
+
+<!--How consulting-->
+<section class="au-body au-body--dark">
+  <div>
+  <div class="container">
+      <h2>How to get involved</h2>
+      <p>More testing</p>
     </div>
   </div>
-</div>
-  </section>
-  
-<!--Why consulting-->
-<section>
-      <h2>{{ intro.why }}</h2>
-      <p>{{ intro.because }}</p>
+</section>
+
+<!--background-->
+<section class="au-body">
+    <div class="container">
+      <h2>Background</h2>
+      <p>More testing</p>
+    </div>
 
 </section>
-     
-   
-</div>
-</div>
-</main>
+
+
 {% endblock %}
+
 
 <!--
 

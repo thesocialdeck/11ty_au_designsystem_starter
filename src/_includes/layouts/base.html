@@ -27,16 +27,22 @@
       {% endfor %}
     {% endif %}
   </head>
+  <body class="au-grid">
+    <!-- SKIP-LINKS -->
+    <nav class="au-skip-link">
+        <a class="au-skip-link__link" href="#content">Skip to main content</a>
+        <a class="au-skip-link__link" href="#mainmenu">Skip to main navigation</a>
+    </nav>
       
       {% include "partials/site-head.html" %}
 
-      <main tabindex="-1" id="main-content" class="au-grid">
+      <main tabindex="-1" id="content" class="au-grid">
         
 
     <!-- Original Template -->    
         <section class="au-body">
      
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
          <!-- <div class="col-md-9">  -->
         {% block content %}{% endblock %}
@@ -45,14 +51,33 @@
         </div>
         </div>
         </section>
-		
+        <!--Call to action section-->
+        <section class="au-body au-body--dark">
+          <div class="container">
+          {% set ctaContent = primaryCTA %} 
+        {% include "partials/cta.html" %} 
+      </div>
+      </section>  
+        <!--Useful Links section-->
+        <section class="au-body au-body--alt">
+        <div class="container">
+          <div class="row">
+            <nav class="col-md-12" aria-label="footer">
+              <h3>Useful links</h3>
+              <ul class="au-link-list au-link-list--inline">
+                <li><a href="/privacy">Link 1</a></li>
+                <li><a href="/help">Link 2</a></li>
+                <li><a href="/accessibility">Link 3</a></li>
+              </ul>
+            </nav>
+          </section>
       </main>
 
       <!--FOOTER -->
 <div class="au-grid">
       <footer class="au-footer au-footer--dark au-body au-body--dark" role="contentinfo">
-	<div class="container-fluid">
 		<div class="row">
+      <div class="container">
 			<nav class="col-md-12" aria-label="footer">
 				<ul class="au-link-list au-link-list--inline">
 					<li><a href="/privacy">Privacy</a></li>
@@ -60,6 +85,7 @@
 					<li><a href="/accessibility">Accessibility</a></li>
 				</ul>
 			</nav>
+
 			<section class="col-sm-12">
         
 				<div class="au-footer__end">
