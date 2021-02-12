@@ -1,7 +1,7 @@
 ---
 title: 'Industry Engagement and Qualifications Discussion Paper'
 closingDate: '12pm AEDT Monday 1 March 2021'
-tags: ['industry', 'open', 'qualifications',]
+tags: ['industry', 'open', 'employers', 'vet',]
 summary: 'This paper focuses on Improving Industry Engagement and Reforming Qualifications in VET'
 link: 'https://www.dese.gov.au/skills-reform-consultation/resources/discussion-paper'
 

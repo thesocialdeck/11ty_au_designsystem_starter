@@ -4,20 +4,16 @@
 <!--{% set pageCriticalStyles = ['css/page.css'] %}-->
 
 {% block content %}
-
-
-  <div class="container">
+  <div class="container au-body">
+    
+    {% include "partials/page-header.html" %}
 <article>
-  {% include "partials/page-header.html" %}
+  <p>{{ summary }}</p>
+  {% include "partials/papers-list.html" %}
   <section class="au-body">
-    <div class="au-callout">{{ summary }}</div>
       {{ content | safe }}
     
   </div>
-  </section>
-
-  <section class="au-body">
-
   </section>
 </article>
 {% endblock %}

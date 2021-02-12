@@ -7,10 +7,10 @@
       {{ postListHeadline }}
     </h2>
     {% endif %}
-    <div class="row">
+    <div class="row container">
       <ul class="au-card-list au-card-list--matchheight">
         {% for item in collections.reforms %}
-          <li class="col-sm-6 col-xs-12">
+          <li class="col-sm-4 col-xs-12">
               <div class="au-card">
                 <img class="au-responsive-media-img" src="{{ item.data.image }}" alt />
               <div class="au-card__inner">
@@ -29,22 +29,3 @@
 </div>
 </section>
 
-
-
-
-
- 
-      <!-- Original code
-        
-        <ul class="au-link-list au-keyword-list au-keyword-list--dark">
-        {% for item in postListItems %}
-        <li>
-          <a href="{{ item.url }}">{{ item.data.title }}</a>
-          <p>{{ item.data.summary}}</p>
-          <p>{{ item.data.tags}}</p>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-</div>

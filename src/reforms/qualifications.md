@@ -5,7 +5,9 @@ tags: ['Potatoes']
 DisplayOrder: '2'
 image: '/images/icons/qualifications.png'
 summary: 'Have your say about improving the way we design qualifications and training in the VET sector.'
+layout: 'layouts/reform-item-qualifications.html'
 ---
+## Overview
 Have your say about improving the way we design qualifications and training in the VET sector.
 
 We’re working with industries and the VET sector to improve the way qualifications are designed. The Skills Reform includes simplifying and streamlining national VET qualifications across industries.

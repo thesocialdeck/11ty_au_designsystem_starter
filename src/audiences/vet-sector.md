@@ -2,9 +2,9 @@
 title: 'VET Sector'
 image: '/images/photos/vet.png'
 summary: 'The VET sector is on the frontline of Australia’s Skills Reform. Governments want to hear from you about changes that will shape the sector, now and into the future. '
+layout: 'layouts/audience-item-vet.html'
 ---
-The VET sector is on the frontline of Australia’s Skills Reform. Governments want to hear from you about changes that will shape the sector, now and into the future. 
-
+## Overview
 A stronger VET system will help you offer the highest quality and most relevant training to support a highly skilled workforce. Skills Reform will: 
 -	change and streamline the way training and qualifications are designed 
 -	improve industry engagement in the process 

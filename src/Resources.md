@@ -1,10 +1,6 @@
 ---
 title: 'Resources'
-layout: 'layouts/page.html'
+layout: 'layouts/resources-landing.html'
 ---
 
-## We have consultation events
-They are going to be awesome
-Really awesome
-## How awesome?
-Really awesome
+The following resources are available to assist you in contributing to the consultation process.

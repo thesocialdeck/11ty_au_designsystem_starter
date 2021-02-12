@@ -1,0 +1,19 @@
+{% extends "layouts/base.html" %} 
+
+{% set pageHeaderTitle = title %} 
+<!--{% set pageCriticalStyles = ['css/page.css'] %}-->
+
+{% block content %}
+  <div class="container au-body">
+    
+    {% include "partials/page-header.html" %}
+<article>
+  <p>{{ summary }}</p>
+  {% include "partials/reform-list.html" %}
+  <section class="au-body">
+      {{ content | safe }}
+    
+  </div>
+  </section>
+</article>
+{% endblock %}

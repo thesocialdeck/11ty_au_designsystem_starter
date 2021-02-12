@@ -5,7 +5,9 @@ tags: ['Potatoes']
 image: '/images/icons/quality.png'
 DisplayOrder: '3'
 summary: 'Have your say to help raise the quality of training in the VET sector.'
+layout: 'layouts/reform-item-quality.html'
 ---
+## Overview
 A strong and well-supported training system will enable RTOs to strive for excellence and enhance the quality of training. 
 
 This will benefit both learners and employers.

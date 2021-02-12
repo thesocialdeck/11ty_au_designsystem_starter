@@ -5,8 +5,9 @@ tags: ['Potatoes']
 DisplayOrder: '1'
 image: '/images/icons/industry.png'
 summary: 'Have your say about how industries and employers can be better engaged in VET.'
+layout: 'layouts/reform-item-industry.html'
 ---
-
+## Overview
 Have your say about how industries and employers can be better engaged in VET.
 
 Australia’s VET system is recognised for its industry engagement, quality and capacity to deliver qualifications that align to jobs. It is important that all training delivered through the VET system meets industry and learner needs.
