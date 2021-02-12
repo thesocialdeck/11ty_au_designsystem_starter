@@ -6,13 +6,23 @@
 {% block content %}
 
 
+<section class="au-body">
   <div class="container">
 <article>
   {% include "partials/page-header.html" %}
-  <section class="au-body">
+  
+    {{ content | safe }}
+  </div>
+  </section> 
+      
+    
+  </div>
+  </section>
+  <section class="au-body au-body--alt">
+    <div class="container">
     <div class="au-callout au-display-lg">{{ summary }}</div>
     <section>
-      <div class="col-md-12 au-callout au-callout--alt">
+      <div class="col-md-12">
         <ul class="au-card-list au-card-list--matchheight">
           {% for item in collections.vet %}
             <li class="col-md-3 col-xs-12">
@@ -34,16 +44,6 @@
       </div>
     </div>    
   </section>
-  <section class="au-body">
-    <div class="container">
-    {{ content | safe }}
-  </div>
-  </section> 
-      
-    
-  </div>
-  </section>
-
   
 </article>
 {% endblock %}
