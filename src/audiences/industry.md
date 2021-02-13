@@ -4,6 +4,7 @@ image: '/images/photos/employers.png'
 summary: 'Have your say on Skills Reform to make sure you have access to people with the skills you need, now and in the future.'
 layout: 'layouts/audience-item-employers.html'
 ---
+Have your say on Skills Reform to make sure you have access to people with the skills you need, now and in the future.
 
 The future of Australia’s VET sector is important for many of Australia’s industries and employers. Skills Reform includes giving industry a greater role in shaping the future workforce. 
 

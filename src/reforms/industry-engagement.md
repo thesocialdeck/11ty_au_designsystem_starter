@@ -1,8 +1,7 @@
 ---
 title: 'Industry Engagement'
-date: '2021-01-01'
-tags: ['Potatoes']
-DisplayOrder: '1'
+date: '2021-01-05'
+DisplayOrder: 1
 image: '/images/icons/industry.png'
 summary: 'Have your say about how industries and employers can be better engaged in VET.'
 layout: 'layouts/reform-item-industry.html'

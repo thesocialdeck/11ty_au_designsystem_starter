@@ -1,8 +1,7 @@
 ---
 title: 'Qualifications'
-date: '2021-01-02'
-tags: ['Potatoes']
-DisplayOrder: '2'
+date: '2021-01-04'
+DisplayOrder: 2
 image: '/images/icons/qualifications.png'
 summary: 'Have your say about improving the way we design qualifications and training in the VET sector.'
 layout: 'layouts/reform-item-qualifications.html'

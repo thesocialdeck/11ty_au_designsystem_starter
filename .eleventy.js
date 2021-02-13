@@ -42,11 +42,10 @@ module.exports = config => {
     return [...collection.getFilteredByGlob('./src/audiences/*.md')].reverse();
   });
 
-  
 
-  // Returns work items, sorted by display order
+  // Returns reform items, sorted by display order
   config.addCollection('reforms', collection => {
-    return sortByDisplayOrder(collection.getFilteredByGlob('./src/reforms/*.md'));
+    return [...collection.getFilteredByGlob('./src/reforms/*.md')].reverse();
   });
 
   // Returns a collection of blog posts in reverse date order

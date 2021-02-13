@@ -7,10 +7,17 @@
 
 <section class="au-body">
   <div class="container">
+    <nav class="au-breadcrumbs" aria-label="breadcrumb">
+      <ul class="au-link-list au-link-list--inline">
+        <li><a href="#">Home</a></li>
+        <li><a href="/audiences/">Audiences</a></li>
+        <li>{{ title}}</li>
+      </ul>
+    </nav>
 <article>
   {% include "partials/page-header.html" %}
   
-    {{ content | safe }}
+    <p>{{ content | safe }}</p>
   </div>
   </section> 
       
