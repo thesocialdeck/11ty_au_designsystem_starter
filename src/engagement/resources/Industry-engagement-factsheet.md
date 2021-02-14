@@ -1,7 +1,5 @@
 ---
 title: 'Factsheet'
-closingDate: 'n/a'
-tags: ['industry', 'open', 'employers', 'vet',]
 summary: 'Overview of Current Industry Engagement Arrangements in Vocational Education and Training'
 link: 'https://www.dese.gov.au/skills-reform-consultation/resources/discussion-paper'
 
