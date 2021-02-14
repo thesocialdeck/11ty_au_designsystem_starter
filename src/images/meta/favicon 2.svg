@@ -3,11 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#002D3F;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st1{fill:#6EC6AA;}
-	.st2{font-family:'ArialMT';}
-	.st3{font-size:60px;}
+	.st0{font-family:'MyriadPro-Regular';}
+	.st1{font-size:72px;}
 </style>
-<rect x="0.5" y="0.5" class="st0" width="99.1" height="99.1"/>
-<text transform="matrix(1 0 0 1 8.4043 74)" class="st1 st2 st3">SR</text>
+<text transform="matrix(1 0 0 1 13 73)" class="st0 st1">SR</text>
 </svg>

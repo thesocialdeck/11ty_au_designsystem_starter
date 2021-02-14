@@ -1,6 +1,7 @@
 ---
 title: 'Learners, job seekers and families and carers'
-image: '/images/photos/learners.png'
+image: '/images/photos/learners.jpg'
+imagealt: 'Two people packing vegetables in a shed'
 summary: 'Make sure Australia’s VET system works for you. Have your say on Skills Reform.'
 layout: 'layouts/audience-item-learners.html'
 ---

@@ -54,7 +54,7 @@
               </button>
               <ul class="au-link-list">
           {% for item in navigation.items %}
-          <li class="au-display-xl">
+          <li class="au-display-lg">
             <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}
               >{{ item.text }}</a
             >
@@ -74,6 +74,7 @@
     </div>
   </div>
 </div>
+
 </nav>
 
 

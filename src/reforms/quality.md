@@ -2,6 +2,7 @@
 title: 'Quality'
 date: '2021-01-03'
 image: '/images/icons/quality.png'
+imagealt: 'Icon a badge to represent quality'
 DisplayOrder: 3
 summary: 'Have your say to help raise the quality of training in the VET sector.'
 layout: 'layouts/reform-item-quality.html'

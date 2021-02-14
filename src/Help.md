@@ -4,7 +4,7 @@ layout: 'layouts/page.html'
 ---
 For more information about how to get involved in the Skills Reform consultations please contact The Social Deck at engage@thesocialdeck.com or phone 0491 617 118.
 
-For more information about the Review, please contact the Department of Education, Skills and Employment at DisabilityStrategy@dese.gov.au.
+For more information about the consultations, please contact the Department of Education, Skills and Employment at vet-reforms-engagement@dese.gov.au.
 
 ## National Relay Service
 The National Relay Service (NRS) is a government initiative that allows people who are deaf, hard of hearing and/or have a speech impairment to make and receive phone calls.

@@ -1,6 +1,7 @@
 ---
 title: 'Educators and Trainers'
-image: '/images/photos/educators.png'
+image: '/images/photos/educators.jpg'
+imagealt: 'Smiling lady sitting at a table with a group of friends'
 summary: 'Have your say on Skills Reforms to make sure the VET system continues to deliver the best quality training.'
 layout: 'layouts/audience-item-educators.html'
 

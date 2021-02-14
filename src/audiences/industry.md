@@ -1,6 +1,7 @@
 ---
 title: 'Employers and industry'
-image: '/images/photos/employers.png'
+image: '/images/photos/employers.jpg'
+imagealt: 'Lady in a bright orange shirt leaning down, in the bush, with her phone and laptop'
 summary: 'Have your say on Skills Reform to make sure you have access to people with the skills you need, now and in the future.'
 layout: 'layouts/audience-item-employers.html'
 ---

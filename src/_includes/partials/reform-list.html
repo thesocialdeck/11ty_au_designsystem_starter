@@ -11,7 +11,7 @@
         {% for item in collections.reforms %}
           <li class="col-sm-4 col-xs-12">
               <div class="au-card">
-                <img class="au-responsive-media-img" src="{{ item.data.image }}" alt />
+                <img class="au-responsive-media-img" src="{{ item.data.image }}" alt ="{{ item.data.imagealt }}" />
               <div class="au-card__inner">
                   <div class="au-card__title">
                           <h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>

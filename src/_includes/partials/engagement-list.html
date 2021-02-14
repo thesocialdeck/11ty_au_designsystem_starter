@@ -12,7 +12,7 @@
       {% for item in collections.engagement %}
         <li class="col-sm-2 col-xs-6">
             <div class="au-card au-body au-body--dark au-card--centred">
-              <img class="au-responsive-media-img" src="{{ item.data.image }}" alt />
+              <img class="au-responsive-media-img" src="{{ item.data.image }}" alt="{{ item.data.imagealt }}" />
             <div class="au-card__inner">
                 <div class="au-card__title">
                         <h4><a href="{{ item.data.link }}">{{ item.data.title }}</a></h4>

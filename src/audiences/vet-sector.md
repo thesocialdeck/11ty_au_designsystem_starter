@@ -1,6 +1,7 @@
 ---
 title: 'VET Sector'
-image: '/images/photos/vet.png'
+image: '/images/photos/vet.jpg'
+imagealt: 'Two people shaking hands'
 summary: 'The VET sector is on the frontline of Australia’s Skills Reform. Governments want to hear from you about changes that will shape the sector, now and into the future. '
 layout: 'layouts/audience-item-vet.html'
 ---
