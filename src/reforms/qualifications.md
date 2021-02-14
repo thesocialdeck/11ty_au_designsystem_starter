@@ -3,6 +3,7 @@ title: 'Qualifications'
 date: '2021-01-04'
 DisplayOrder: 2
 image: '/images/icons/qualifications.png'
+imagealt: 'Icon of hand writing on paper to represent qualifications'
 summary: 'Have your say about improving the way we design qualifications and training in the VET sector.'
 layout: 'layouts/reform-item-qualifications.html'
 ---
@@ -23,5 +24,5 @@ There are more than 1,300 qualifications in the current national training system
 
 The complexity of the national training system hinders employers and learners from readily identifying the qualifications and skillsets they need to gain the right skills and build their workforce. Stronger employer collaboration is needed to foster cross-sector career pathways and maximise mobility for workers.
 
-Read more in the discussion paper.
+Read more in the [discussion paper](/resources).
 

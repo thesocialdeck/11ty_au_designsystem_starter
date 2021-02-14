@@ -58,6 +58,11 @@ module.exports = config => {
     return [...collection.getFilteredByGlob('./src/engagement/surveys/*.md')].reverse();
   });
 
+  // Returns a collection of resources in reverse date order
+  config.addCollection('resourceslist', collection => {
+    return [...collection.getFilteredByGlob('./src/engagement/resources/*.md')].reverse();
+  });
+
   // Returns a collection of open workshops in reverse date order
   config.addCollection('workshops', collection => {
     return [...collection.getFilteredByGlob('./src/engagement/workshops/*.md')].reverse();

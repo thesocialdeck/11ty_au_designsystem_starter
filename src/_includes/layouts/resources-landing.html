@@ -7,13 +7,24 @@
   <div class="container au-body">
     
     {% include "partials/page-header.html" %}
-<article>
+<section>
   <p>{{ summary }}</p>
-  {% include "partials/papers-list.html" %}
-  <section class="au-body">
-      {{ content | safe }}
-    
+  
+</section>
+  <section>
+    <div class="container">
+     <p>{% include "partials/resources-list.html" %}</p>
+    </div>
+    </section>
   </div>
-  </section>
-</article>
+
+  <section>
+    <div class="container">
+    <h2>Papers</h2>
+  
+  {% include "partials/papers-list.html" %}
+  </div>
+    </section>
+  
+
 {% endblock %}

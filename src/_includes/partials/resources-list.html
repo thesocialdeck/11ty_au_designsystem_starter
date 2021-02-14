@@ -1,5 +1,5 @@
 <section>
-<div id="survey-list">
+<div id="resource-list">
     {% if postListHeadline %}
     <h2>
       {{ postListHeadline }}
@@ -7,25 +7,19 @@
     {% endif %}
     <div class="row">
       <ul class="au-card-list au-card-list--matchheight">
-        {% for item in collections.survey %}
+        {% for item in collections.resourceslist %}
           <li class="col-sm-3 col-xs-6">
               <div class="au-card au-card--clickable">
                 <!--<img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />-->
               <div class="au-card__inner">
                   <div class="au-card__title">
-                          <h3><a class="au-card--clickable__link" href="{{ item.url }}">{{ item.data.title }}</a></h3>
+                          <h3><a class="au-card--clickable__link" href="{{ item.data.link }}">{{ item.data.title }}</a></h3>
                   </div>
                   <p>{{ item.data.summary}}</p>
                   </div>
-                  <div class="au-card__footer au-body au-body">
-                    <p><strong>Closing date: </strong>{{ item.data.closingDate}}</p>
-                </div>
                             </div>
           </li>
           {% endfor %}
       </ul>
     </div>
-  </div>
-</div>
-</div>
 </section>

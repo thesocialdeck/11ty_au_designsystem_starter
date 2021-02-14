@@ -65,9 +65,9 @@
             <nav class="col-md-12" aria-label="footer">
               <h3>Useful links</h3>
               <ul class="au-link-list au-link-list--inline">
-                <li><a href="/privacy">Link 1</a></li>
-                <li><a href="/help">Link 2</a></li>
-                <li><a href="/accessibility">Link 3</a></li>
+                {% for item in collections.resourceslist %}
+                <li><a href="{{ item.data.link }}">{{ item.data.title}}</a> | </li>
+                {% endfor %}
               </ul>
             </nav>
           </section>

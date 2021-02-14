@@ -23,6 +23,6 @@ Be part of the Skills Reform and have your say on [immediate reforms](https://ww
 
 We want to hear from anyone with an interest in the VET system. This includes those who have undertaken VET training, employers and business owners, Registered Training Organisations (RTO), trainers and assessors and organisations who support the VET sector and its industries.
 
-There are different ways to get involved-attend an online consultation event, complete a survey or send a submission.
+There are different ways to [get involved](/get-involved/) - attend an online consultation event, complete a survey or send a submission.
 
 Changes to the VET system are required so that Australians can access high quality and relevant training, ensuring they have the skills to take on the jobs that emerge through the next decade and beyond.

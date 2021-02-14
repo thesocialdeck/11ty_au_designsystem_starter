@@ -21,7 +21,7 @@ We want to hear from those who engage in the VET sector, including RTOs, employe
 
 Skills Ministers have committed to raising the quality of training delivered within the VET sector through:
 
--   revising the *Standards for Registered Training Organisations (RTOs) 2015* (the Standards)
+-   revising the *[Standards for Registered Training Organisations (RTOs) 2015](https://www.asqa.gov.au/about/asqa/key-legislation/standards-rtos)* (the Standards)
 
 -   improving the capability and capacity of RTOs for continuous improvement
 
@@ -47,5 +47,5 @@ Read the Quality reform issues papers for more information about what is being c
 
 -   [RTO quality (including the Standards)](https://www.dese.gov.au/skills-reform-consultation/resources/rto-quality-issues-paper)
 
--   [VET Workforce Quality Strategy]
+-   VET Workforce Quality Strategy
 

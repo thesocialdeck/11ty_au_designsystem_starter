@@ -20,20 +20,20 @@ Reviews have found that employers need to have a greater role across all areas o
 
 Strong industry engagement ensures a flexible, responsive and trusted VET system.
 
-The Australian, state and territory governments have agreed that an immediate priority under the Heads of Agreement for Skills Reform is to improve industry engagement in the VET system. This includes encouraging greater collaboration and involvement.
+The Australian, state and territory governments have agreed that an immediate priority under the [Heads of Agreement for Skills Reform](https://www.pmc.gov.au/resource-centre/domestic-policy/heads-agreement-skills-reform) is to improve industry engagement in the VET system. This includes encouraging greater collaboration and involvement.
 
 Industry refers to three broad stakeholder groups involved in the national training system:
 
--   Employers -- small, medium and large businesses
+-   Employers - small, medium and large businesses
 
--   Employer associations -- member-based organisations, including peak bodies, licensing associations and other employer advisory bodies
+-   Employer associations - member-based organisations, including peak bodies, licensing associations and other employer advisory bodies
 
--   Employee representatives -- member-based organisations including unions.
+-   Employee representatives - member-based organisations including unions.
 
 The current VET system is working well, but there is room for improvement. While employer satisfaction in VET remains strong, it has fallen over the last decade from 86.3 per cent in 2009, to 78.8 per cent in 2019. The VET system must be improved to meet the rapidly changing needs of employers and businesses so they can grow and be internationally competitive, create new jobs and strengthen their labour market resilience.
 
 The work undertaken by the Australian Industry and Skills Committee (AISC) and the associated Industry Reference Committees (IRCs) on improving industry engagement will be considered as part of this process.
 
-Reforming qualifications and improving industry engagement is one of many measures Australian governments are taking to improve the national training system and VET sector. The National Skills Commission and the National Careers Institute have been established, along with other reforms as set out in the Heads of Agreement for Skills Reform.
+Reforming qualifications and improving industry engagement is one of many measures Australian governments are taking to improve the national training system and VET sector. The [National Skills Commission](https://www.nationalskillscommission.gov.au) and the [National Careers Institute](https://www.google.com/search?client=safari&rls=en&q=National+Careers+Institute&ie=UTF-8&oe=UTF-8) have been established, along with other reforms as set out in the Heads of Agreement for Skills Reform.
 
-Read more in the discussion paper.
+Read more in the [discussion paper](/resources).
