@@ -1,5 +1,5 @@
 ---
-title: 'Quality'
+title: 'Quality Reforms'
 date: '2021-01-03'
 image: '/images/icons/quality.png'
 imagealt: 'Icon a badge to represent quality'

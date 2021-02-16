@@ -1,5 +1,5 @@
 ---
-title: 'Industry Engagement'
+title: 'Industry Engagement Reforms'
 date: '2021-01-05'
 DisplayOrder: 1
 image: '/images/icons/industry.png'

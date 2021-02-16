@@ -1,5 +1,5 @@
 ---
-title: 'Qualifications'
+title: 'Qualifications Reforms'
 date: '2021-01-04'
 DisplayOrder: 2
 image: '/images/icons/qualifications.png'

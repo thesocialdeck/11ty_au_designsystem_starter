@@ -7,7 +7,7 @@ intro:
   summary: 'Have your say to help shape the future of Australia’s VET system. '
   buttonText: 'See our work'
   buttonUrl: '/work'
-  image: '/images/bg/toast.jpg'
+  image: '/images/photos/learners.jpg'
   imageAlt: 'Lady in high-vis vest smiling'
 ---
 
