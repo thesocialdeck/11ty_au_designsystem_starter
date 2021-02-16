@@ -1,5 +1,7 @@
 ---
 title: 'Standards - Quality Reform Workshop'
+datetype: 'Date/s: '
+action: 'register'
 closingDate: 'Wed 10th Mar 2021, 10:00 am - 12:00 pm AEDT, Thu 11th Mar 2021, 3:00 pm - 5:00 pm AEDT'
 tags: ['workshop', 'open', 'quality',]
 key: 4

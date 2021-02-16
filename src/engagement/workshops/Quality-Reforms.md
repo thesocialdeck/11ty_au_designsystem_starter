@@ -1,5 +1,7 @@
 ---
 title: 'Quality Reform Workshops'
+datetype: 'Date/s: '
+action: 'register'
 closingDate: 'Thu 18th Feb -Tue 2nd Mar 2021'
 tags: ['workshop', 'open', 'learners', 'quality',]
 key: 4

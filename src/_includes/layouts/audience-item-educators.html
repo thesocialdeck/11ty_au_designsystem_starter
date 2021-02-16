@@ -31,20 +31,24 @@
       <div class="col-md-12">
         <ul class="au-card-list au-card-list--matchheight">
           {% for item in collections.educators %}
-            <li class="col-md-3 col-xs-12">
-                <div class="au-card au-body au-card--clickable">
-                  <!--<img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />-->
-                <div class="au-card__inner">
-                    <div class="au-card__title">
-                            <h3><a class="au-card--clickable__link" href="{{ item.url }}">{{ item.data.title }}</a></h3>
-                    </div>
-                    <p>{{ item.data.summary}}</p>
-                    </div>
-                    <div class="au-card__footer au-body au-body">
-                      <p><strong>Closing date: </strong>{{ item.data.closingDate}}</p>
+          <li class="col-md-3 col-xs-12">
+              <div class="au-card au-body au-card--clickable">
+                <!--<img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />-->
+              <div class="au-card__inner">
+                  <div class="au-card__title">
+                          <h3><a class="au-card--clickable__link" href="{{ item.data.link }}">{{ item.data.title }}</a></h3>
                   </div>
-                              </div>
-            </li>
+                  <p>{{ item.data.summary}}</p>
+                  <p><strong>{{ item.data.datetype}}</strong>{{ item.data.closingDate}}</p>
+                  </div>
+                  <div class="au-card__footer au-body au-body">
+                   
+                    <a href="{{ item.data.link }}" class="au-btn au-btn--block">
+                      {{ item.data.action}}
+                    </a>
+                </div>
+                            </div>
+          </li>
             {% endfor %}
         </ul>
       </div>

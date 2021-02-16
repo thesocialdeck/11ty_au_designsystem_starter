@@ -1,5 +1,5 @@
 ---
-title: 'Factsheet'
+title: 'Factsheet: Current Industry Engagement Arrangements'
 summary: 'Overview of Current Industry Engagement Arrangements in Vocational Education and Training'
 link: 'https://www.dese.gov.au/skills-reform-consultation/resources/discussion-paper'
 
