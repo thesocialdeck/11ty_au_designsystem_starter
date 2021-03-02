@@ -1,8 +1,8 @@
 ---
 title: 'RTO Quality Issues Paper'
-datetype: 'Closing date: '
+datetype: ''
 action: 'read'
-closingDate: '12pm AEDT Monday 1 March 2021'
+closingDate: ''
 tags: ['open', 'quality', 'vet',]
 summary: 'The RTO Quality Issues Paper focusses on issues around the Standards for RTOs and how to better foster excellence.'
 link: 'https://www.dese.gov.au/skills-reform-consultation/resources/rto-quality-issues-paper'

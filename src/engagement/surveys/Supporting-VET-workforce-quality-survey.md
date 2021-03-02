@@ -1,5 +1,6 @@
 ---
 title: 'Supporting VET Workforce Quality Survey'
+image: '/images/icons/survey.png'
 datetype: 'Closing date: '
 action: 'respond'
 closingDate: '9am AEDT Monday 15 March 2021'

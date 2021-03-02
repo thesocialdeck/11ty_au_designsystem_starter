@@ -32,9 +32,13 @@
         <ul class="au-card-list au-card-list--matchheight">
           {% for item in collections.educators %}
           <li class="col-md-3 col-xs-12">
-              <div class="au-card au-body au-card--clickable">
-                <!--<img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />-->
+            <div class="au-card au-body au-card--clickable au-card--shadow">
+              <img class="au-responsive-media-img" src="{{ item.data.image }}" alt />
               <div class="au-card__inner">
+                <ul class="au-tag-list">
+                  <li><span class="au-tag">{{ item.data.action }}</span></li>
+                </ul>
+           
                   <div class="au-card__title">
                           <h3><a class="au-card--clickable__link" href="{{ item.data.link }}">{{ item.data.title }}</a></h3>
                   </div>

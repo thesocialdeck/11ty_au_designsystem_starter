@@ -9,28 +9,31 @@
       <ul class="au-card-list au-card-list--matchheight">
         {% for item in collections.survey %}
         <li class="col-md-3 col-xs-12">
-          <div class="au-card au-body au-card--clickable">
-            <!--<img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />-->
+          <div class="au-card au-body au-card--clickable au-card--shadow">
+            <img class="au-responsive-media-img" src="{{ item.data.image }}" alt />
           <div class="au-card__inner">
+            <ul class="au-tag-list">
+              <li><span class="au-tag">{{ item.data.action }}</span></li>
+            </ul>
               <div class="au-card__title">
                       <h3><a class="au-card--clickable__link" href="{{ item.data.link }}">{{ item.data.title }}</a></h3>
               </div>
               <p>{{ item.data.summary}}</p>
               <p><strong>{{ item.data.datetype}}</strong>{{ item.data.closingDate}}</p>
               </div>
-              <div class="au-card__footer au-body au-body">
+              <!--<div class="au-card__footer au-body au-body">
                
                 <a href="{{ item.data.link }}" class="au-btn au-btn--block">
                   {{ item.data.action}}
                 </a>
-            </div>
+            </div>-->
                         </div>
       </li>
           {% endfor %}
-          <!--Submission-->
+          <!--Submission
           <li class="col-sm-3 col-xs-6">
             <div class="au-card au-body au-body--dark au-card--clickable">
-              <!--<img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />-->
+              <img class="au-responsive-media-img" src="https://designsystem.gov.au/assets/img/placeholder/600X260.png" alt />
             <div class="au-card__inner">
                 <div class="au-card__title">
                         <h3><a class="au-card--clickable__link" href="https://employment.au1.qualtrics.com/jfe/form/SV_8e0QN4PAwdaKssJ">Submit a response</a></h3>
@@ -39,7 +42,7 @@
                 <p><strong>Closing date: </strong>12pm AEDT, 1 March 2021</p>
                 <div class="au-card__footer au-body au-body--dark">
                 <a href="https://employment.au1.qualtrics.com/jfe/form/SV_8e0QN4PAwdaKssJ" class="au-btn au-btn--dark">submit</a>
-              </div>
+              </div>-->
               </div>
                 
                           </div>
