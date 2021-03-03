@@ -47,5 +47,5 @@ Read the Quality reform issues papers for more information about what is being c
 
 -   [RTO quality (including the Standards)](https://www.dese.gov.au/skills-reform-consultation/resources/rto-quality-issues-paper)
 
--   Supporting the VET workforce
+-   [Supporting the VET workforce](/papers/supporting-the-vet-workforce-issues-paper/)
 

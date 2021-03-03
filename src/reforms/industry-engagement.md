@@ -18,4 +18,4 @@ The strength of Australia’s VET system is internationally recognised, we need 
 
 Improving industry engagement is one of many measures Australian governments are taking to improve the national training system and VET sector. The [National Skills Commission](https://www.nationalskillscommission.gov.au/) and the [National Careers Institute](https://nci.dese.gov.au/) have been established, along with other reforms as set out in the [Heads of Agreement for Skills Reform](https://nci.dese.gov.au/).
 
-Read the Factsheet: Overview of Current Industry Engagement Arrangements in Vocational Education and Training
+Read the Factsheet: [Overview of Current Industry Engagement Arrangements in Vocational Education and Training](https://www.dese.gov.au/skills-reform-consultation/resources/factsheet)

@@ -15,6 +15,7 @@ tags: ['industry', 'open', 'employers', 'qualifications',]
 summary: 'Read a paper on improving industry engagement and reforming qualifications in VET'
 doc: 'Download as DOCX (105.56kb)'
 PDF: 'Download as a PDF (281.54kb)' 
+link: '/papers/industry-engagement-and-qualifications-discussion-paper/'
 link_doc: '/images/documents/Discussion Paper - Industry Engagement and Qualifications.docx'
 link_pdf: '/images/documents/Discussion Paper - Industry Engagement and Qualifications.pdf'
 

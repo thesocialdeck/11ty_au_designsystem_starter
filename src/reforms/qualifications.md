@@ -47,7 +47,7 @@ There are more than 1,300 qualifications in the current national training system
 
 The complexity of the national training system hinders employers and learners from readily identifying the qualifications and skillsets they need to gain the right skills and build their workforce. Stronger employer collaboration is needed to foster cross-sector career pathways and maximise mobility for workers.
 
-Read more in the [discussion paper](/resources).
+Read more in the [discussion paper](/papers/industry-engagement-and-qualifications-discussion-paper/).
 
 ## Qualifications Design Survey
 
