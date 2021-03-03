@@ -1,3 +1,5 @@
 {
-  "image": "/images/icons/paper.png"
+  "image": "/images/icons/paper.png",
+  "layout": "layouts/papers.html",
+  "permalink": "/papers/{{ title | slug }}/index.html"
 }

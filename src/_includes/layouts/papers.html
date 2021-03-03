@@ -1,0 +1,79 @@
+{% extends "layouts/base.html" %} 
+
+{% set pageHeaderTitle = title %} 
+<!--{% set pageCriticalStyles = ['css/page.css'] %}-->
+
+{% block content %}
+<main class="au-grid">
+  <div class="container">
+    <div class="col-xs-12 col-md-8">
+    <h1>{{ title }}</h1>
+      <p>{{ summary }}</p>
+    </div>
+    
+  </section>
+  <section class="au-body au-body">
+    
+        <div class="container">
+          <div class="col-xs-12 col-md-8">
+      <a href="{{ link_pdf }}" class="au-btn au-btn--secondary">
+        {{ PDF }}
+      </a>
+      <a href="{{ link_doc }}" class="au-btn au-btn--secondary">
+        {{ doc }}
+      </a>
+    </div>
+  </div>
+  </section>
+
+</section>
+<section class="au-body au-body">
+      <div class="container">
+    <div class="col-xs-12 col-md-8">
+    <div class="au-table__wrapper">
+      <table class="au-table au-table--striped">
+          <caption class="au-table__caption">Document details</caption>
+          <thead class="au-table__head">
+              
+          </thead>
+          <tbody class="au-table__body">
+              <tr class="au-table__row">
+                  <td class="au-table__cell">Creation date:</td>
+                  <td class="au-table__cell">{{ creation }}</td>
+              </tr>
+              <tr class="au-table__row">
+                <td class="au-table__cell">Modified:</td>
+                <td class="au-table__cell">{{ modified }}</td>
+            </tr>
+            <tr class="au-table__row">
+              <td class="au-table__cell">TRIM Reference:</td>
+              <td class="au-table__cell">{{ trim }}</td>
+          </tr>
+          <tr class="au-table__row">
+            <td class="au-table__cell">Creator:</td>
+            <td class="au-table__cell">{{ creator }}</td>
+        </tr>
+        <tr class="au-table__row">
+          <td class="au-table__cell">Publisher:</td>
+          <td class="au-table__cell">{{ publisher }}</td>
+      </tr>
+      <tr class="au-table__row">
+        <td class="au-table__cell">Language:</td>
+        <td class="au-table__cell">{{ language }}</td>
+    </tr>
+    <tr class="au-table__row">
+      <td class="au-table__cell">Coverage:</td>
+      <td class="au-table__cell">{{ coverage }}</td>
+  </tr>                
+          </tbody>
+      </table>
+
+      <p>We aim to provide documents in an accessible format. If you're having problems accessing a document, please <a href="/contact">contact us</a> for help.</p>
+    </div>
+  </section>
+  
+  {% endblock %}
+
+</main>
+
+
