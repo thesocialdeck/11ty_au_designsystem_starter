@@ -11,3 +11,5 @@ paginationAnchor: '#post-list'
 ---
 
 The latest news and upates from the Skills Reform consultations.
+
+Coming soon.
