@@ -35,7 +35,7 @@ The development of a VET Workforce Quality Strategy (the Strategy) recognises th
 
 Trainers and assessors are at the front line of training delivery. They have a vital role in passing on industry relevant knowledge to learners to meet Australia's employment and productivity needs. The Strategy will aim to support RTOs and trainers and assessors to promote high quality, consistent training and assessment and support the diverse workplace roles within the sector.
 
-These reforms build on findings from recent reviews within the vocational education and training (VET) sector, which highlighted opportunities to enhance quality in the VET sector. They include
+These reforms build on findings from recent reviews within the vocational education and training (VET) sector, which highlighted opportunities to enhance quality in the VET sector. They include:
 
 -   [Review of the National Vocational Education and Training Regulator Act 2011](https://www.dese.gov.au/uncategorised/resources/all-eyes-quality-review-national-vocational-education-and-training-regulator-act-2011-report) (Braithwaite Review)
 

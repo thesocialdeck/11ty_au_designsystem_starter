@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/papers.html'
-title: 'Supporting the VET workforce Issues Paper'
+title: 'Supporting the VET Workforce Issues Paper'
 datetype: ''
 action: 'read'
 closingDate: ''

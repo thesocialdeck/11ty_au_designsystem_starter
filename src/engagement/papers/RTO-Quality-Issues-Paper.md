@@ -15,7 +15,7 @@ tags: ['open', 'quality', 'vet',]
 summary: 'The RTO Quality Issues Paper focusses on issues around the Standards for RTOs and how to better foster excellence.'
 doc: 'Download as DOCX (107.63kb)'
 PDF: 'Download as a PDF (264.54kb)' 
-link: '/papers/industry-engagement-and-qualifications-discussion-paper/'
+link: '/papers/rto-quality-issues-paper/'
 link_doc: '/images/documents/Issues Paper_RTO Quality.docx'
 link_pdf: '/images/documents/Issues Paper_RTO Quality.pdf'
 
