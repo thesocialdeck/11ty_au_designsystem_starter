@@ -17,7 +17,7 @@ Be part of the Skills Reform and have your say on [immediate reforms](/skills-re
 - improve VET qualifications
 - support high-quality training delivery
 
-We want to hear from anyone with an interest in the VET system. This includes those who have undertaken VET training, employers and business owners, Registered Training Organisations (RTO), trainers and assessors and organisations who support the VET sector and its industries.
+We want to hear from anyone with an interest in the VET system. This includes those who have undertaken VET training, employers and business owners, RTOs, trainers and assessors and organisations who support the VET sector and its industries.
 
 There are different ways to [get involved](/get-involved/) - attend an online consultation event, complete a survey or send a submission.
 
