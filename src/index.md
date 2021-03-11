@@ -7,8 +7,8 @@ intro:
   summary: 'Have your say to help shape the future of Australia’s VET system. '
   buttonText: 'See our work'
   buttonUrl: '/work'
-  image: '/images/bg/code.png'
-  imageAlt: 'Lady in high-vis vest smiling'
+  image: '/images/bg/code.jpg'
+  imageAlt: 'Three people sitting in front of a computer learning to code'
 ---
 
 Be part of the Skills Reform and have your say on [immediate reforms](/skills-reform/) to:
