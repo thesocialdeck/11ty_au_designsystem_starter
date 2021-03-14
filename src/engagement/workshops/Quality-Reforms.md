@@ -3,7 +3,7 @@ title: 'Quality Reform Workshops'
 datetype: 'Date/s: '
 action: 'register'
 closingDate: 'Thu 18th Feb -Tue 2nd Mar 2021'
-tags: ['workshop', 'open', 'learners', 'quality',]
+tags: ['workshop', 'open', 'quality', 'educators',]
 key: 4
 summary: 'Join us for a workshop about quality reform measures in the vocational education and training (VET) sector.'
 link: 'https://events.humanitix.com/quality-reform-workshop-2#'

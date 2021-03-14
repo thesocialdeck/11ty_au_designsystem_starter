@@ -11,7 +11,7 @@ creator: 'Department of Education, Skills and Employment'
 publisher: 'Department of Education, Skills and Employment'
 language: 'English / Australian English'
 coverage: 'Australia'
-tags: ['open', 'quality', 'vet',]
+tags: ['open', 'quality', 'educators',]
 summary: 'The Supporting the VET Workforce Issues Paper provides an overview of the VET workforce key themes for the development of the VET Workforce Quality Strategy.'
 doc: 'Download as DOCX (93.45kb)'
 PDF: 'Download as a PDF (243.45kb)' 

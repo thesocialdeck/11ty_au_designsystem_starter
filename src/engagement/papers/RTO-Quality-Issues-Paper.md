@@ -11,7 +11,7 @@ creator: 'Department of Education, Skills and Employment'
 publisher: 'Department of Education, Skills and Employment'
 language: 'English / Australian English'
 coverage: 'Australia'
-tags: ['open', 'quality', 'vet',]
+tags: ['open', 'quality', 'educators',]
 summary: 'The RTO Quality Issues Paper focusses on issues around the Standards for RTOs and how to better foster excellence.'
 doc: 'Download as DOCX (107.63kb)'
 PDF: 'Download as a PDF (264.54kb)' 
